@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luhongxuyen
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in everything. :) 
 - 🌱 I’m currently learning Python, Data Analyst, Data Engineer, Data Science, Flask, Django,...
 - 💞️ I’m looking to collaborate with any company that requires the right experience for me.
